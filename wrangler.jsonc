@@ -1,0 +1,8 @@
+{
+  "name": "telegram-bot-backend",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-19",
+  "triggers": {
+    "crons": ["0 * * * *"]
+  }
+}
